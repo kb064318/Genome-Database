@@ -7,3 +7,4 @@ The files used to generate the database are not included in this repo, as I do n
 
 Locus
 | ID(Key)       | Start         | End   |
+| ------------- |:-------------:| -----:|
